@@ -1,0 +1,13 @@
+pandas
+pytest
+pylint
+pydocstyle
+gym
+numpy
+matplotlib
+pyglet
+keras
+docopt
+tensorflow==2.0
+pybind11
+cppimport
