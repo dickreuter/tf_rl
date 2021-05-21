@@ -8,6 +8,6 @@ matplotlib
 pyglet
 keras
 docopt
-tensorflow==2.0
+tensorflow==2.5.0
 pybind11
 cppimport
